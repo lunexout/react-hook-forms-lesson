@@ -1,0 +1,22 @@
+.form-submit-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background: #38cc8b;
+  box-shadow: 0px -4px 0px 0px rgba(0, 0, 0, 0.09) inset;
+  height: 56px;
+  color: #fff;
+
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px; /* 173.333% */
+  letter-spacing: 1px;
+
+  border: none;
+}
+
+.form-submit-btn:hover {
+  cursor: pointer;
+}
